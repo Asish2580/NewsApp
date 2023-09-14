@@ -1,0 +1,10 @@
+<Route exact path="business"><News country={"in"} pageSize={8}  category={"general"}/></Route>
+<Route exact path="entertainment"><News country={"in"} pageSize={8}  category={"general"}/></Route>
+<Route exact path="general"><News country={"in"} pageSize={8}  category={"general"}/></Route>
+<Route exact path="health"><News country={"in"} pageSize={8}  category={"general"}/></Route>
+<Route exact path="s<Route exact path="cience"><News country={"in"} pageSize={8}  category={"general"}/></Route>
+<Route exact path="sports"><News country={"in"} pageSize={8}  category={"general"}/></Route>
+<Route exact path="technology"><News country={"in"} pageSize={8}  category={"general"}/></Route>
+
+<Route exact path="/"><News country={"in"} pageSize={8}  category={"general"}/></Route>
+      </S
